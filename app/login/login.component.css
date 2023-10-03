@@ -1,0 +1,5 @@
+.bg-login-image {
+    background: url(../../assets/img/car2.jpg);
+    background-position: center;
+    background-size: cover
+}
